@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(cpp_019_szablon_klasy_o_zmiennej_liczbie_parametrow)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(cpp_019_szablon_klasy_o_zmiennej_liczbie_parametrow main.cpp)
